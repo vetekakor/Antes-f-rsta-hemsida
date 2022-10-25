@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+h5{
+	color: white;
+}
+.cardco{
+	background-color: black;
+}
+p{
+	color: white;
+}
+h1{	
+font-family: Arial;
+color: #ffc107;
+text-align: center;
+}
+
+.align {
+  margin: auto;
+	   }
+.border{
+	border: 5px solid white;
+}
+.padding{
+	padding: 300px;
+	padding-top: 1px;
+}
+.imgheight{
+	height: 300px;
+	width: 300px;
+}
