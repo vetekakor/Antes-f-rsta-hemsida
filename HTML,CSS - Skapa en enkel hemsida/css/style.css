@@ -1,0 +1,26 @@
+.bg1{
+		background-color: 	gray;
+}
+.textalign1{
+	text-align: 	center;
+	font-size: 	30px;
+	color: 	white;
+}
+.textalignport{
+	text-align: 	left;
+	font-size: 	30px;
+	color: 	white;
+}
+
+table, th, td{
+	border: 	solid;
+	border-collapse: 	5px solid white;
+	padding: 	15px;
+}
+.korttext{
+	color: 	black;
+	font-size: 	15px;
+}
+.slideshow{
+	width: 	1000px;
+}
