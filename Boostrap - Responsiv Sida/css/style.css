@@ -1,0 +1,45 @@
+body{
+	background-color: lightgrey;
+}
+.sectionmargin{
+	margin-top: 50px;
+}
+.font{
+	font-family: Helvetica;
+	font-size: 20px;
+	color: black;
+}
+.imgwidth{
+	height: 300px;
+	width: 300px;
+}
+.contentsection{
+	background-color: whitesmoke;
+	padding: 30px;
+}
+.contentskugga{
+	box-shadow: 10px 10px 15px;
+}
+.sidfot{
+	padding: 80px;
+	display:flex;
+	margin:0 auto;
+	background-color: darkgrey;
+	color: white;
+}
+.gridsectiontext{
+	height: 200px;
+}
+.marginbottom{
+	margin-bottom: 25px;
+}
+.margintop{
+	margin-top: 5px;
+}
+.kolumpadding{
+	padding-bottom: 15px;
+}
+
+
+
+
