@@ -1,0 +1,16 @@
+.h1{
+font-family: Helvetica;
+font-size: 100px;
+}
+.padding{
+padding-top: 100px;
+}
+.spacing{
+	margin: 10px;
+}
+body{
+	background-color: green;
+}
+.bodycolor{
+	background-color: red;
+}
